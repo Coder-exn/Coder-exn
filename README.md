@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Coder-exn
 - 👀 I’m interested in: Java & Python
 - 🌱 I’m currently learning: Java, Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. Mail address: 787305742@qq.com
 
 Self introduction:
